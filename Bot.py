@@ -37,12 +37,12 @@ async def start(event):
     await event.client.send_file(
         event.chat_id,
         file="https://te.legra.ph/file/c51f9d5400b4d1e2dce09.jpg",
-        caption="━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ɪ ᴀᴍ ᴀʟᴇxᴀ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [ʙʀᴀɴᴅᴇᴅ ʙᴏᴛ](https://t.me/BRANDRD_BOT)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [ʙʀᴀɴᴅᴇᴅ ʜᴇʟᴘ](https://t.me/BRANDED_WORLD)┓\n┣★ ʀᴇᴘᴏ › : [ʙʀᴀɴᴅᴇᴅ ʀᴇᴘᴏ](https://github.com/WCGKING/BrandedXMention)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/BRANDEDKING82) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
+        caption="━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ɪ ᴀᴍ ᴄᴡ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ 𝐎𝐖𝐍𝐄𝐑    : [𝐎𝐖𝐍𝐄𝐑](https://t.me/CW_TEAM_OWNER)\n┣★ 𝐆𝐑𝐎𝐔𝐏 › : [𝐆𝐑𝐎𝐔𝐏](https://t.me/ll_CRUSH_WORLD_ll)┓\n┣★ 𝐂𝐇𝐎𝐂𝐎𝐋𝐀𝐓𝐘 › : [𝐂𝐇𝐎𝐂𝐎𝐋𝐀𝐓𝐘](https://t.me/ll_CREATOR_OF_ALL_BRANDS_ll)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [𝐎𝐖𝐍𝐄𝐑](https://t.me/CW_TEAM_OWNER) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
         link_preview=False,
         buttons=[
-            [Button.url("❤️‍🔥 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💫", "https://t.me/Branded_MentionBot?startgroup=true")],
-            [Button.url("❤️‍🔥 ɢʀᴏᴜᴘ 💫", "https://t.me/BRANDED_WORLD"), Button.url("❤️‍🔥 ᴄʜᴀɴɴᴇʟ 💫", "https://t.me/BRANDRD_BOT")],
-            [Button.url("❤️‍🔥 ʜᴇʀᴜᴋᴏ ᴄᴄ 💫", "https://t.me/BRANDED_PAID_CC"), Button.url("❤️‍🔥 BRANDED ❤️‍🔥", "https://t.me/BRANDEDKING82")]
+            [Button.url("𝐊𝐈𝐃𝐍𝐀𝐏 𝐌𝐄", "https://t.me/CW_MENTION_ROBOT?startgroup=true")],
+            [Button.url("𝐆𝐑𝐎𝐔𝐏", "https://t.me/ll_CRUSH_WORLD_ll"), Button.url("𝐂𝐇𝐎𝐂𝐎𝐋𝐀𝐓𝐘", "https://t.me/ll_CREATOR_OF_ALL_BRANDS_ll")],
+            [Button.url("𝐒𝐇𝐈𝐕𝐀𝐍𝐆", "https://t.me/ll_SHIVANG_ll"), Button.url("𝐂𝐑𝐔𝐒𝐇", "https://t.me/ll_EYE_LAW_VIEW_ll")]
         ]
     )
 
@@ -58,8 +58,8 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("❤️‍🔥 ꜱᴜᴘᴘᴏʀᴛ 💫", "https://t.me/BRANDED_WORLD"),
-                Button.url("❤️‍🔥 ʏᴏᴜᴛᴜʙᴇ 💫", "https://youtube.com/@TrickyBranded?si=LiWu6DkLNs4bcZn6"),
+                Button.url("𝐆𝐑𝐎𝐔𝐏", "https://t.me/ll_CRUSH_WORLD_ll"),
+                Button.url("𝐎𝐖𝐍𝐄𝐑", "https://t.me/CW_TEAM_OWNER"),
             ]
         ),
     )
@@ -70,14 +70,14 @@ async def help(event):
     chat_id = event.chat_id
     if not event.is_private:
         return await event.respond("ᴅᴇᴀʀ sᴛᴀʀᴛ ᴍᴇ ɪɴ ᴘᴍ ᴛᴏ ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴғ 🥺")
-    helptext = "✪ ᴏᴡɴᴇʀ ᴍᴇɴᴜ ᴏғ ᴀʟᴇxᴀ ᴍᴇɴᴛɪᴏɴ\n\n✪ ᴍʏ ᴏᴡɴᴇʀ ɪs [ʙʀᴀɴᴅᴇᴅ ʙᴏᴛ](https://t.me/BRANDRD_BOT)\n✪ ᴏғғɪᴄɪᴀʟ ᴍᴇᴍʙᴇʀ ᴏғ ʙʀᴀɴᴅᴇᴅ\n✪ ʏᴏᴜᴛᴜʙᴇ [ᴄʜᴀɴɴᴇʟ](https://youtube.com/TrickyBranded)\n✪ ғᴜᴛᴜʀᴇ ᴀɴᴇsᴛʜᴇᴛɪᴄ."
+    helptext = "✪ ᴏᴡɴᴇʀ ᴍᴇɴᴜ ᴏғ ᴀʟᴇxᴀ ᴍᴇɴᴛɪᴏɴ\n\n✪ ᴍʏ ᴏᴡɴᴇʀ ɪs [𝐒𝐇𝐈𝐕𝐀𝐍𝐆](https://t.me/ll_SHIVAMG_ll)\n✪ ᴏғғɪᴄɪᴀʟ ᴍᴇᴍʙᴇʀ ᴏғ ᴄᴡ\n✪ 𝐆𝐑𝐎𝐔𝐏 [𝐆𝐑𝐎𝐔𝐏](https://t.me/ll_CRUSH_WORLD_ll)\n✪ ғᴜᴛᴜʀᴇ ᴀɴᴇsᴛʜᴇᴛɪᴄ."
     await event.reply(
         helptext,
         link_preview=False,
         buttons=(
             [
-                Button.url("❤️‍🔥 ꜱᴜᴘᴘᴏʀᴛ 💫", "https://t.me/BRANDED_WORLD"),
-                Button.url("❤️‍🔥 ʏᴏᴜᴛᴜʙᴇ 💫", "https://youtube.com/TrickyBranded"),
+                Button.url("𝐆𝐑𝐎𝐔𝐏", "https://t.me/ll_CRUSH_WORLD_ll"),
+                Button.url("𝐎𝐖𝐍𝐄𝐑", "https://t.me/CW_TEAM_OWNER"),
             ]
         ),
     )

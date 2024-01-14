@@ -36,7 +36,7 @@ async def start(event):
     
     await event.client.send_file(
         event.chat_id,
-        file="https://te.legra.ph/file/c51f9d5400b4d1e2dce09.jpg",
+        file="https://te.legra.ph/file/ab9e3ceaa1d5f8c7fe133.jpg",
         caption="━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ɪ ᴀᴍ ᴄᴡ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ 𝐎𝐖𝐍𝐄𝐑    : [𝐎𝐖𝐍𝐄𝐑](https://t.me/CW_TEAM_OWNER)\n┣★ 𝐆𝐑𝐎𝐔𝐏 › : [𝐆𝐑𝐎𝐔𝐏](https://t.me/ll_CRUSH_WORLD_ll)┓\n┣★ 𝐂𝐇𝐎𝐂𝐎𝐋𝐀𝐓𝐘 › : [𝐂𝐇𝐎𝐂𝐎𝐋𝐀𝐓𝐘](https://t.me/ll_CREATOR_OF_ALL_BRANDS_ll)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [𝐎𝐖𝐍𝐄𝐑](https://t.me/CW_TEAM_OWNER) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
         link_preview=False,
         buttons=[

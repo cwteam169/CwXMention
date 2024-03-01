@@ -37,12 +37,12 @@ async def start(event):
     await event.client.send_file(
         event.chat_id,
         file="https://te.legra.ph/file/ab9e3ceaa1d5f8c7fe133.jpg",
-        caption="━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ɪ ᴀᴍ ᴄᴡ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ 𝐎𝐖𝐍𝐄𝐑    : [𝐎𝐖𝐍𝐄𝐑](https://t.me/CW_TEAM_OWNER)\n┣★ 𝐆𝐑𝐎𝐔𝐏 › : [𝐆𝐑𝐎𝐔𝐏](https://t.me/ll_CRUSH_WORLD_ll)┓\n┣★ 𝐂𝐇𝐎𝐂𝐎𝐋𝐀𝐓𝐘 › : [𝐂𝐇𝐎𝐂𝐎𝐋𝐀𝐓𝐘](https://t.me/ll_CREATOR_OF_ALL_BRANDS_ll)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [𝐎𝐖𝐍𝐄𝐑](https://t.me/CW_TEAM_OWNER) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
+        caption="━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ɪ ᴀᴍ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ 𝐎𝐖𝐍𝐄𝐑    : [𝐎𝐖𝐍𝐄𝐑](https://t.me/ll_SHIVANG_ll)\n┣★ 𝐆𝐑𝐎𝐔𝐏 › : [𝐆𝐑𝐎𝐔𝐏](https://t.me/ll_R2F_FRIENDS_ll)┓\n┣★ 𝐒𝐇𝐈𝐕𝐀𝐍𝐆 › : [𝐒𝐇𝐈𝐕𝐀𝐍𝐆](https://t.me/ll_SHIVANG_ll)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [𝐎𝐖𝐍𝐄𝐑](https://t.me/ll_SHIVANG_ll) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
         link_preview=False,
         buttons=[
-            [Button.url("𝐊𝐈𝐃𝐍𝐀𝐏 𝐌𝐄", "https://t.me/CW_MENTION_ROBOT?startgroup=true")],
-            [Button.url("𝐆𝐑𝐎𝐔𝐏", "https://t.me/ll_CRUSH_WORLD_ll"), Button.url("𝐂𝐇𝐎𝐂𝐎𝐋𝐀𝐓𝐘", "https://t.me/ll_CREATOR_OF_ALL_BRANDS_ll")],
-            [Button.url("𝐒𝐇𝐈𝐕𝐀𝐍𝐆", "https://t.me/ll_SHIVANG_ll"), Button.url("𝐂𝐑𝐔𝐒𝐇", "https://t.me/ll_EYE_LAW_VIEW_ll")]
+            [Button.url("𝐊𝐈𝐃𝐍𝐀𝐏 𝐌𝐄", "https://t.me/R2F_TAGGER_ROBOT?startgroup=true")],
+            [Button.url("𝐆𝐑𝐎𝐔𝐏", "https://t.me/ll_R2F_FRIENDS_ll"), Button.url("𝐒𝐇𝐈𝐕𝐀𝐍𝐆", "https://t.me/ll_SHIVANG_ll")],
+            [Button.url("𝐒𝐇𝐈𝐕𝐀𝐍𝐆", "https://t.me/ll_SHIVANG_ll"), Button.url("𝐂𝐑𝐔𝐒𝐇", "https://t.me/ll_R2F_FRIENDS_ll")]
         ]
     )
 
@@ -58,8 +58,8 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("𝐆𝐑𝐎𝐔𝐏", "https://t.me/ll_CRUSH_WORLD_ll"),
-                Button.url("𝐎𝐖𝐍𝐄𝐑", "https://t.me/CW_TEAM_OWNER"),
+                Button.url("𝐆𝐑𝐎𝐔𝐏", "https://t.me/ll_R2F_FRIENDS_ll"),
+                Button.url("𝐎𝐖𝐍𝐄𝐑", "https://t.me/ll_SHIVANG_ll"),
             ]
         ),
     )
@@ -70,14 +70,14 @@ async def help(event):
     chat_id = event.chat_id
     if not event.is_private:
         return await event.respond("ᴅᴇᴀʀ sᴛᴀʀᴛ ᴍᴇ ɪɴ ᴘᴍ ᴛᴏ ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴғ 🥺")
-    helptext = "✪ ᴏᴡɴᴇʀ ᴍᴇɴᴜ ᴏғ ᴀʟᴇxᴀ ᴍᴇɴᴛɪᴏɴ\n\n✪ ᴍʏ ᴏᴡɴᴇʀ ɪs [𝐒𝐇𝐈𝐕𝐀𝐍𝐆](https://t.me/ll_SHIVAMG_ll)\n✪ ᴏғғɪᴄɪᴀʟ ᴍᴇᴍʙᴇʀ ᴏғ ᴄᴡ\n✪ 𝐆𝐑𝐎𝐔𝐏 [𝐆𝐑𝐎𝐔𝐏](https://t.me/ll_CRUSH_WORLD_ll)\n✪ ғᴜᴛᴜʀᴇ ᴀɴᴇsᴛʜᴇᴛɪᴄ."
+    helptext = "✪ ᴏᴡɴᴇʀ ᴍᴇɴᴜ ᴏғ ᴀʟᴇxᴀ ᴍᴇɴᴛɪᴏɴ\n\n✪ ᴍʏ ᴏᴡɴᴇʀ ɪs [𝐒𝐇𝐈𝐕𝐀𝐍𝐆](https://t.me/ll_SHIVAMG_ll)\n✪ ᴏғғɪᴄɪᴀʟ ᴍᴇᴍʙᴇʀ ᴏғ ᴄᴡ\n✪ 𝐆𝐑𝐎𝐔𝐏 [𝐆𝐑𝐎𝐔𝐏](https://t.me/ll_R2F_FRIENDS_ll)\n✪ ғᴜᴛᴜʀᴇ ᴀɴᴇsᴛʜᴇᴛɪᴄ."
     await event.reply(
         helptext,
         link_preview=False,
         buttons=(
             [
-                Button.url("𝐆𝐑𝐎𝐔𝐏", "https://t.me/ll_CRUSH_WORLD_ll"),
-                Button.url("𝐎𝐖𝐍𝐄𝐑", "https://t.me/CW_TEAM_OWNER"),
+                Button.url("𝐆𝐑𝐎𝐔𝐏", "https://t.me/ll_R2F_FRIENDS_ll"),
+                Button.url("𝐎𝐖𝐍𝐄𝐑", "https://t.me/ll_SHIVANG_ll"),
             ]
         ),
     )
